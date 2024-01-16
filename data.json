@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Manish",
+    "email": "manishkrojha0@gmail.com",
+    "phone1": "9542124141",
+    "phone2": "1341353443"
+  },
+  {
+    "name": "Aman",
+    "email": "aman12sharma@gmail.com",
+    "phone1": "9877462728",
+    "phone2": "9782347313"
+  },
+  {
+    "name": "Sachin",
+    "email": "Sachin12sharma@gmail.com",
+    "phone1": "9822462728",
+    "phone2": "9711347313"
+  },
+  {
+    "name": "Raj",
+    "email": "raj@gmail.com",
+    "phone1": "9876541321",
+    "phone2": "8799765243"
+  },
+  {
+    "name": "Raju",
+    "email": "raju@gmail.com",
+    "phone1": "9876231321",
+    "phone2": "8799235243"
+  }
+]
