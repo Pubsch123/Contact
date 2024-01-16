@@ -44,7 +44,9 @@ for Unix or MacOS:
 Install dependencies:
 
 ```bash
-  pip install -r requirements.txt
+  pip install fastapi
+  pip install uvicorn
+  pip install tabulate
 ```
     
 ## Usage
@@ -79,7 +81,6 @@ Use tools like Swagger UI to test API endpoints interactively along with that ch
 
 `data.json`: JSON file storing information.
 
-`requirements.txt`: Contains the necessary packages.
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for bug fixes, enhancements, or new features.
 ## Author
